@@ -1,1 +1,12 @@
-
+{
+    "licenses": {
+        "adf56e2c7555781f88865a1ad90db11946ee888706b8fe772be646ef4301cfbc": {
+            "domain": "www.example.com",
+            "expiry": "2026-06-03",
+            "contact": "VG",
+            "email": "gautamvatsal@gmail.com",
+            "created": "2025-06-03",
+            "last_updated": "2025-06-03 17:22:58"
+        }
+    }
+}
