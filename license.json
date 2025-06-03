@@ -7,6 +7,14 @@
             "email": "gautamvatsal@gmail.com",
             "created": "2025-06-03",
             "last_updated": "2025-06-03 17:22:58"
+        },
+        "0b468a62320bae68fb09d884e08696a58679d1d225b198d5ea92c6fba14ea89f": {
+            "domain": "www.example2.com",
+            "expiry": "2026-06-03",
+            "contact": "VG 2",
+            "email": "gautamvatsal01@gmail.com",
+            "created": "2025-06-03",
+            "last_updated": "2025-06-03 17:23:28"
         }
     }
 }
